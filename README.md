@@ -83,7 +83,7 @@ API to Hash Lattitude and Longitude into a single encrypted string using FastAPI
 
 
   
-## Deployment
+## Deployment (Local)
 
 ## Install FastAPI and Uvicorn using PIP
 - #### FastAPI
