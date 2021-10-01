@@ -85,7 +85,7 @@ API to Hash Lattitude and Longitude into a single encrypted string using FastAPI
   
 ## Deployment (Local)
 
-## Install FastAPI and Uvicorn using PIP
+### Install FastAPI and Uvicorn using PIP
 - #### FastAPI
 ```bash
   $ pip install fastapi 
