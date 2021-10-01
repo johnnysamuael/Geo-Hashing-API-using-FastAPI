@@ -79,7 +79,7 @@ API to Hash Lattitude and Longitude into a single encrypted string using FastAPI
 #### lat=8.186480, lon=77.430923, accuracy=5
 
 #### Output : 
-<img src="qr.png" alt="Geohashing" >
+<img src="qr.png" alt="Geohashing" height="200" width="200">
 
 
   
