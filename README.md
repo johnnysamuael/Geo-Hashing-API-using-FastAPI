@@ -128,14 +128,15 @@ $ deta deploy
   $ deta watch
   ```
  # Demo
- - ### Encode :
+ - ### Encode:
 
  <img src="encode.png" alt="Geohashing" height="400" width="600">
- - ### Decode :
+ 
+ - ### Decode:
 
 <img src="decode.png" alt="Geohashing" height="400" width="600">
 
-- ### QR Generation
+ - ### QR Generation
 
 <img src="qrgen.png" alt="Geohashing" height="400" width="600">
 
