@@ -127,3 +127,17 @@ $ deta deploy
   ```zsh
   $ deta watch
   ```
+ # Demo
+ - ### Encode :
+
+ <img src="encode.png" alt="Geohashing" height="400" width="600">
+ - ### Decode :
+
+<img src="decode.png" alt="Geohashing" height="400" width="600">
+
+- ### QR Generation
+
+<img src="qrgen.png" alt="Geohashing" height="400" width="600">
+
+
+ 
