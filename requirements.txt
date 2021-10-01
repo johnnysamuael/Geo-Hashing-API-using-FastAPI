@@ -1,0 +1,6 @@
+fastapi
+polyline
+qrcode
+aiofiles
+pillow
+deta
